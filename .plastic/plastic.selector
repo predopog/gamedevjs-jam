@@ -1,0 +1,4 @@
+repository "gamedevjs gamejam@predows@cloud"
+  path "/"
+    br "/main"
+    co "/main"
